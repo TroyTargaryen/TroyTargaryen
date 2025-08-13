@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TroyTargaryen
-- 👀 I’m interested in Mobile and Web Development
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on Web Applications
+- 👀 I’m interested in Cybersecurity, Networking and Web Development
+- 🌱 I’m a python, C and Javascript developer
+- 💞️ I’m looking to collaborate on Anything.
 - 📫 How to reach me...you can't.
 
 <!---
